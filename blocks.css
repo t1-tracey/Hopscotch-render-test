@@ -1,0 +1,49 @@
+span.blocks {
+  font-family: "Avenir";
+}
+
+.blocks {
+
+  width: 100px;
+  height: 20px;
+  margin: 5px;
+
+  border-radius: 3px;
+  border-width: thick;
+
+}
+
+.movement {
+  background-color: red;
+}
+
+.looks-and-sounds {
+  background-color: green;
+}
+
+.drawing {
+  background-color: purple;
+}
+
+.variables {
+  background-color: #e6b600;
+}
+
+.control-flow{
+  background-color: #3e83bd;
+}
+
+.numeric {
+
+  background-color: white;
+  border-radius: 20px;
+
+  height: 15px;
+
+}
+
+.label {
+
+  color: white;
+
+}
